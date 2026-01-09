@@ -1,41 +1,48 @@
-# ✅ To-Do List
+# 📝 To-Do List
 
-Um projeto simples e funcional de **Lista de Tarefas**, desenvolvido com **HTML, CSS e JavaScript**, com foco em organização, usabilidade e boas práticas para portfólio.
+Projeto de uma **lista de tarefas (To-Do List)** simples, moderna e funcional, desenvolvida com **HTML, CSS e JavaScript puro**, com foco em organização, usabilidade e prática de lógica de programação.
 
-🔗 **Demo online (GitHub Pages):**  
-https://hyansilva.github.io/to-do-list/
-
-📁 **Repositório:**  
-https://github.com/HyanSilva/to-do-list
+🔗 **Acesse o projeto online:**  
+👉 https://hyansilva.github.io/to-do-list/
 
 ---
 
-## 📸 Preview
+## 📸 Preview do Projeto
 
-![Preview do projeto](./preview.png)
+### Tela inicial
 
-> Interface clean, responsiva e intuitiva.
+<img width="1366" height="720" alt="Preview 1" src="https://github.com/user-attachments/assets/7039f183-f49a-44a6-b362-5137fa309be5" />
 
 ---
 
 ## 🚀 Funcionalidades
 
 - ✅ Adicionar novas tarefas
-- ❌ Remover tarefas
-- ✏️ Marcar tarefas como concluídas
-- 📭 Mensagem exibida quando não há tarefas
-- 🎨 Interface moderna e organizada
-- 📱 Layout responsivo
+- 🗑️ Remover tarefas individualmente
+- 📝 Interface simples e intuitiva
+- 🎨 Design moderno com layout centralizado
+- 📱 Responsivo para diferentes tamanhos de tela
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5** – Estrutura do projeto  
-- **CSS3** – Estilização e layout  
-- **JavaScript (Vanilla)** – Lógica e interatividade  
+- **HTML5** — Estrutura da aplicação  
+- **CSS3** — Estilização e layout  
+- **JavaScript** — Lógica e interatividade  
 
 ---
 
 ## 📂 Estrutura do Projeto
 
+```text
+to-do-list/
+│
+├── imagens/
+│   ├── preview1.png
+│   └── preview2.png
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
